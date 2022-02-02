@@ -8,7 +8,11 @@
 * Crypto Api  
 * React-Table for Making performant tables
 
+netlify 
 
+ https://quiki-apps.netlify.app/ 
+ 
+ 
 Using the App
 
 * clone the repo
