@@ -1,5 +1,12 @@
 
 
+  Submission for opportuinity Quiki-Apps
+
+* Montserrat-google fonts
+* React with Material UI
+* Styled components
+* Crypto Api  
+* React-Table for Making performant tables
 
 
 Using the App
