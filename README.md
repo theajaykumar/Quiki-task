@@ -1,12 +1,7 @@
-Submission for opportuinity Quiki-Apps
 
-Libraries used
 
-Montserrat-google fonts
-React with Material UI
-Styled components
-Crypto Api  
-React-Table for Making performant tables
+
+
 Using the App
 clone the repo
 run yarn or npm i
