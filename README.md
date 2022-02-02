@@ -10,9 +10,11 @@
 
 
 Using the App
-clone the repo
-run yarn or npm i
-run yarn start or npm start
+
+* clone the repo
+* run yarn or npm i
+* run yarn start or npm start
+
 
 
 References
