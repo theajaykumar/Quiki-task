@@ -25,4 +25,4 @@ References
 React-Table Documentation
 
 Feedback?
-contact ajaycr4u@gmail.com
+ contact ajaycr4u@gmail.com
