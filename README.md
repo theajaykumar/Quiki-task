@@ -18,7 +18,8 @@ Using the App
 
 
 References
-API Reference: https://www.coingecko.com/en/api/documentation
+
+ API Reference: https://www.coingecko.com/en/api/documentation
 
 
 React-Table Documentation
